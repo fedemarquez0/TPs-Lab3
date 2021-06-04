@@ -41,6 +41,11 @@ Por último, vamos a guardar todos los cambios realizados.
 c.save()
 ```
 
+## Sobre nuestro proyecto
+Ahora que ya entendemos el funcionamiento básico de la librería, podemos trabajar con nuestro proyecto.
+
+Para ello ejecutar el archivo principal tp3.py
+
 ## Bibliografía
 
 - `ReportLab Python` https://pypi.org/project/reportlab/
